@@ -1,0 +1,5 @@
+cluster_name: Cluster PVE
+
+pve:
+  cpu: 3
+  memory: 6144
